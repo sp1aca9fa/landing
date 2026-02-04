@@ -1,0 +1,24 @@
+.footer {
+  height: 215px;
+  background-color: #2C2B2B;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-text {
+  text-align: center;
+  color: #7F7F7F
+}
+
+.fab.fa-fw {
+  font-size: 32px;
+  color: #1EDD88;
+  margin: 2px;
+}
+
+.fa-heart  {
+  color:#BF0F12
+}

@@ -1,0 +1,35 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  height: 592px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: start;
+}
+
+.banner > .banner-inner-container {
+  margin: 0 24px;
+  color: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  padding: 0;
+}
+
+.banner-inner-container > h1 {
+  font-size: 32px;
+  margin: 0
+}
+
+.banner-inner-container > p {
+  font-size: 20px;
+  color: #B3B4B4
+}
+
+.banner-inner-container > a {
+  background-color: #1EDD88;
+  color: white;
+  border-radius: 30px;
+  padding: 16px 32px
+}
