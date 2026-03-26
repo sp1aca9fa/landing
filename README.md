@@ -1,8 +1,6 @@
-# Landing Page Design
+# Landing Page
 
 A static landing page built with HTML and CSS, focusing on layout structure, section composition, and basic user experience principles.
-
----
 
 ## Features
 
@@ -12,14 +10,10 @@ A static landing page built with HTML and CSS, focusing on layout structure, sec
 - Structured layout using Flexbox
 - Basic responsive considerations
 
----
-
 ## Tech Stack
 
 - HTML5
 - CSS3 (Flexbox)
-
----
 
 ## How It Works
 
@@ -31,8 +25,6 @@ The page is structured into three main sections:
 
 The layout relies on Flexbox for positioning and spacing, without using external CSS frameworks like Bootstrap.
 
----
-
 ## Key Learnings
 
 - Structuring a full page from scratch
@@ -43,8 +35,6 @@ The layout relies on Flexbox for positioning and spacing, without using external
   - Content flow
   - Call-to-action placement
 
----
-
 ## Setup
 
 ```bash
@@ -53,7 +43,7 @@ cd landing
 npx serve
 ```
 
----
+Open in your browser: http://localhost:3000
 
 ## Notes
 
