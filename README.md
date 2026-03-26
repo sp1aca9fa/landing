@@ -8,7 +8,7 @@ A static landing page built with HTML and CSS, focusing on layout structure, sec
 
 - Hero/banner section with call-to-action
 - “How it works” section breaking down the product
-- Footer with basic navigation/info
+- Footer with social media links and credits
 - Structured layout using Flexbox
 - Basic responsive considerations
 
@@ -27,7 +27,7 @@ The page is structured into three main sections:
 
 - **Hero Section**: Introduces the product and encourages user action
 - **How It Works**: Breaks down the product/service into clear steps or features
-- **Footer**: Provides additional navigation and closing information
+- **Footer**: Social media icons (Facebook, GitHub, Twitter, Instagram) and a credits line
 
 The layout relies on Flexbox for positioning and spacing, without using external CSS frameworks like Bootstrap.
 
@@ -50,7 +50,7 @@ The layout relies on Flexbox for positioning and spacing, without using external
 ```bash
 git clone https://github.com/sp1aca9fa/landing.git
 cd landing
-serve
+npx serve
 ```
 
 ---
