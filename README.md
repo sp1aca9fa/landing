@@ -50,7 +50,7 @@ The layout relies on Flexbox for positioning and spacing, without using external
 ```bash
 git clone https://github.com/sp1aca9fa/landing.git
 cd landing
-serve
+npx serve
 ```
 
 ---
