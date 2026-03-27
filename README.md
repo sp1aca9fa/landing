@@ -47,6 +47,5 @@ Open in your browser: http://localhost:3000
 
 ## Notes
 
-This project is a solution to a Le Wagon coding challenge.
-
-It focuses on combining previously built components into a cohesive landing page layout. While visually simple, the main goal was to practice structuring a page and thinking about how different sections work together to guide a user.
+This project is a solution to a Le Wagon bootcamp coding challenge. It focuses on combining previously built components into a cohesive landing page layout.
+While visually simple, the main goal was to practice structuring a page and thinking about how different sections work together to guide a user.
